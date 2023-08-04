@@ -76,4 +76,11 @@ video{
     /* padding-bottom: 1%; */
     text-decoration: underline;
 }
+
+footer{
+    padding-top: 20px;
+    font-size: 12px;
+    color: beige;
+    text-align: center;
+}
   
